@@ -109,7 +109,6 @@ img.pop_up_img {
     position: absolute;
     left: 30%;
     margin: 10px 0 0 30px;
-    padding: 10x;
     line-height: 2;
     background-color: darkgray;
     border-radius: 10px;
@@ -121,12 +120,12 @@ span.pop_up_content {
     color: black;
     margin: 10px 0 0 15px;
     font-size: 1.2rem;
-    top:10.3%;
+    top:9.9%;
     left: 50%;
     max-height: 8%;
     height: 0;
     max-width: 17%;
-    padding: 6.6% 0 6.7% 0;
+    padding: 6.65% 0 6.67% 0;
     border: 10px solid darkgray;
     border-radius: 0 10px 10px 0;
 }
